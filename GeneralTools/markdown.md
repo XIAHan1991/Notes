@@ -107,8 +107,8 @@ I get 10 times more traffic from [Google] [1] than from
 ## 图片
 和链接很相似的语法来标记图片，同样也允许两种样式： 行内式和参考式。
 ### exmaple picture
-	![example link](/Users/haibo/MarkDown/MD_example_link.jpeg)
-![example link](/Users/haibo/MarkDown/MD_example_link.jpeg)
+	![example link](../Figures/github.png)
+![example link](../Figures/github.png)
 
 # 5.粗体、斜体、下划线
 使用星号（*）和底线（_）作为标记强调字词的符号。  
