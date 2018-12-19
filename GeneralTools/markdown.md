@@ -161,7 +161,14 @@ tips:
 Use the `printf()` function.  
 
 	``There is a literal backtick (`) here.``  
-``There is a literal backtick (`) here.``  
+``There is a literal backtick (`) here.``.  
+
+### 语法高亮  
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 # 8.代码区块
 要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以。（代码块开始前需要有空行？？？）  
 
